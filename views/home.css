@@ -1,0 +1,79 @@
+body {
+    /* background-image: url("https://uniim1.shutterfly.com/ng/services/mediarender/THISLIFE/010046522485/media/22345046868/medium/1479701055/enhance"); 
+   opacity: 0.7; */
+  background-size: 100%;
+  position: relative;
+  background-repeat: no-repeat; 
+  text-align: center; 
+  /* margin-bottom: 30px;
+  margin-left: 30px;
+  margin-right: 30px; */
+  /* opacity: 1;
+  transition: 1s ease-in-out; */
+       
+} 
+
+/* body.fade-out {
+  opacity: 0;
+  transition: none;
+} */
+
+#myVideo {
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  min-width: 100%; 
+  min-height: 100%;
+}
+
+/* Add some content at the bottom of the video/page */
+.content {
+  position: fixed;
+  bottom: 0;
+  /* background: rgba(0, 0, 0, 0.5); */
+  color: #f1f1f1;
+  width: 100%;
+  padding: 20px;
+}
+
+h1 {    
+  text-align: center;
+  position: relative;
+  font-family: 'italics';
+  font-size: 70px;
+  color: yellowgreen;
+  -webkit-text-stroke: 1px black;
+  margin: 70px;
+  opacity: 0.9;
+}
+
+h2 {
+  text-align: center;
+  position: relative;
+  font-family: 'Fontdiner Swanky';
+  font-size: 40px;  
+  color: yellowgreen;  
+  -webkit-text-stroke: 1px black;
+  margin: 150px;
+  opacity: 0.9;
+}
+
+h4 {
+  color: yellow;  
+  -webkit-text-stroke: 1px black;
+}
+
+span {
+  color: yellowgreen;
+  text-align: center; 
+  -webkit-text-stroke: 1px black;
+}
+.navbar-toggler {
+   opacity: 0.7;
+}
+
+.collapse {
+   opacity: 1.0;
+}
+
+
